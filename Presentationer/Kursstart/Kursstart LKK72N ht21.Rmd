@@ -1,0 +1,22 @@
+---
+title: "Kursstart LKK72N"
+subtitle: "⚔<br/>Hösten 2021"
+author: "Frank Bach"
+institute: "Göteborgs universitet, IDPP"
+date: "2021-07-01 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: middle center
+# Kursstart LKK72N
+
+## 2021-08-30
+
+--
+
+### Me!
